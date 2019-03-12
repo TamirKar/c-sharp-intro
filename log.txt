@@ -1,0 +1,11 @@
+commit 9c7e2c1b7758430f9b147bd4fbde6141b86e80c9
+Author: Tamir Kariv <tamir.kariv@live.biu.ac.il>
+Date:   Tue Mar 12 19:58:56 2019 +0200
+
+    Intro to C#
+
+commit 4ff3f176cf3819fc3f921d3f8160bfe7261421e2
+Author: Tamir Kariv <Tamir Kariv@DESKTOP-AU1CNQL>
+Date:   Tue Mar 12 19:54:42 2019 +0200
+
+    Add .gitignore and .gitattributes.

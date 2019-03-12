@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Excercise_1
 {
@@ -39,7 +42,7 @@ namespace Excercise_1
             {
                 value = c(value);
             }
-            //notify all those who are subscribed to the event.
+            //notify all those who are subscribed to the event.s
             OnCalculate?.Invoke(this, value);
             return value;
         }
